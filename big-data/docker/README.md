@@ -9,6 +9,8 @@
 <div align="left">
 <h3>Sumário de pastas:</h3>
 
+[Comandos](https://github.com/fernandadiasm/study/tree/main/big-data/docker/docker.txt)
+
 [Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/docker/1.%20Hadoop)
 
 [Hive](https://github.com/fernandadiasm/study/tree/main/big-data/docker/2.%20Hive)
