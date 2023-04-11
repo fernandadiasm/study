@@ -7,3 +7,6 @@
 07. [MySQL - Verificar e Instalar os Banco de Dados de testes](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/07-mysql-verificar-e-instalar-os-bd-de-testes.sh)
 
 08. [Sqoop -  Pesquisa e Criação de Tabelas](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/08-sqoop-pesquisa-e-criacao-de-tabelas.sh)
+
+09. [Sqoop - Importação BD Employees](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/09-Sqoop-importação-bd-mployees.sh)
+
