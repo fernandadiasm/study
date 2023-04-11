@@ -5,7 +5,7 @@
 </p>
 
 <div align="left">
-<h2 align="center"> Lista de exercícios </h2>
+<h3 align="left"> Lista de exercícios </h3>
   <p>
   <a href="#">1. </a>
   </p>
@@ -19,13 +19,13 @@
   <a href="#">4.</a>
   </p>
   <p>
-  <a href="#-hive-seleção-de-tabelas">5. Hive - Seleção de tabelas</a>
+  <a href="#-hive-seleção-de-tabelas-particionadas">5. Hive - Seleção de tabelas particionadas</a>
   </p>
 </div>
 <br>
 <br>
 
-## 👩🏻‍💻 Hive - Seleção de Tabelas
+## 👩🏻‍💻 Hive - Seleção de Tabelas Particionadas
 
 <p>Antes de iniciar o exercício, eu preciso fazer os seguintes passos:</p>
 
