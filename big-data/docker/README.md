@@ -3,33 +3,8 @@
 
 
 <p align="center">
-  <img align="right" alt="logo do docker" src="../../public/docker-logo.png" width="40%">
+  <img align="right" alt="logo do docker" src="../../public/docker-logo.png" width="30%">
 </p>
-
-<div align="left">
-<h3>Sumário de pastas:</h3>
-
-[Comandos](https://github.com/fernandadiasm/study/tree/main/big-data/docker/docker.txt)
-
-[Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/docker/1.%20Hadoop)
-
-[Hive](https://github.com/fernandadiasm/study/tree/main/big-data/docker/2.%20Hive)
-
-[Sqoop](https://github.com/fernandadiasm/study/tree/main/big-data/docker/3.%20Sqoop)
-
-[Soluções dos exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/docker/solu%C3%A7%C3%A3o-exercicios)
-
-
-</div>
-
-
-
-<br>
-<br>
-<br>
-
-
-
 
 
 ## O que é o Docker?
@@ -41,7 +16,7 @@ O Docker é um softare de código aberto, usado para implantar aplicativos dentr
 O Docker é algo parecido com uma máquina virtual extremamente leve, mas não se trata de fato de uma máquina virtual. O Docker utiliza containers que possuem uma arquitetura diferente, permitindo maior portabilidade e eficiência. O container exclui a virtualização e muda o processo para o Docker. Então, não podemos dizer que o Docker é uma máquina virtual. Veja na imagem abaixo as diferenças entre o Docker e uma virtualização:
 
 <p align="center">
-  <img alt="logo do docker" src="https://dkrn4sk0rn31v.cloudfront.net/2018/09/28135438/virtualization-vs-containers.jpg" width="90%">
+  <img alt="logo do docker" src="https://dkrn4sk0rn31v.cloudfront.net/2018/09/28135438/virtualization-vs-containers.jpg" width="80%">
 </p>
 
 Na virtualização, temos um maior consumo de recursos, uma vez que para cada aplicação precisamos carregar um sistema operacional. Já no Docker, podemos ver que não existe essa necessidade de múltiplos sistemas operacionais convidados.
