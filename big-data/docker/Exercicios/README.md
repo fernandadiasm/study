@@ -25,84 +25,9 @@
 <br>
 <br>
 
-## 👩🏻‍💻 Hive - Seleção de Tabelas Particionadas
+## 👩🏻‍💻 Hive - 
 
-<p>Antes de iniciar o exercício, eu preciso fazer os seguintes passos:</p>
 
-Entrar no meu banco de dados:
-``` sql
-use fernanda; 
-```
-Verificar as as tabelas presentes no meu banco de dados: 
-``` sql
-show tables;
-```
-
-<br>
-
-<div>
-1. Selecionar os 10 primeiros registros da tabela nascimento pelo ano de 2016:
-
-``` sql
-select * from nascimento where ano=2016 limit 10;
-```
-</div>
-
-<div>
-2. Contar a quantidade de nomes de crianças nascidas em 2017:
-
-``` sql
-select count(nome) as qtd from nascimento where ano=2017;
-```
-</div>
-
-<div>
-3. Contar a quantidade de crianças nascidas em 2017:
-
-``` sql
-select sum(frequencia) as qtd from nascimento where ano=2017;
-```
-</div>
-
-<div>
-4. Contar a quantidade de crianças nascidas por sexo no ano de 2015:
-
-``` sql
-select sexo, sum(frequencia) as qtd from nascimento where ano=2015 group by sexo;
-```
-</div>
-
-<div>
-5. Mostrar por ordem de ano decrescente a quantidade de crianças nascidas por sexo:
-
-``` sql
-select ano, sexo, sum(frequencia) as qtd from nascimento group by ano, sexo order by ano desc;
-```
-</div>
-
-<div>
-6. Mostrar por ordem de ano decrescente a quantidade de crianças nascidas por sexo com o nome iniciado com ‘A’:
-
-``` sql
-select ano, sexo, sum(frequencia) as qtd from nascimento where nome like 'A%' group by ano, sexo order by ano desc;
-```
-</div>
-
-<div>
-7. Qual nome e quantidade das 5 crianças mais nascidas em 2016:
-
-``` sql
-select nome, max(frequencia) as qtd from nascimento where ano=2016 group by nome order by qtd desc limit 5;
-```
-</div>
-
-<div>
-8. Qual nome e quantidade das 5 crianças mais nascidas em 2016 do sexo masculino e feminino:
-
-``` sql
-select nome, max(frequencia) as qtd, sexo from nascimento where ano=2016 group by nome, sexo order by qtd desc limit 5;
-```
-</div>
 
 <br>
 

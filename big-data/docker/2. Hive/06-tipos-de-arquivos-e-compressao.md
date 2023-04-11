@@ -55,10 +55,10 @@ org.apache.hadoop.io.compress.DeflateCodec
 ### Adicionar o parâmetro compress em tblproperties na criação da tabela
 
 ``` sql
-stored as <formatoArquivo> tblproperties(' formatoArquivo.compress’=‘<CompressaoArquivo>');
+stored as <formatoArquivo> tblproperties('formatoArquivo.compress´=´<CompressaoArquivo>');
 ```
 
-### Tabela com partição e compressão
+### Exemplo de criação de tabela com partição e compressão
 
 ``` sql
 create table user(
