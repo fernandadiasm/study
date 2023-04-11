@@ -17,9 +17,7 @@
 
 [Sqoop](https://github.com/fernandadiasm/study/tree/main/big-data/docker/3.%20Sqoop)
 
-[Exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/docker/Exercicios)
-
-[Soluções do Exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/docker/solu%C3%A7%C3%A3o-exercicios)
+[Soluções dos exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/docker/solu%C3%A7%C3%A3o-exercicios)
 
 
 </div>
