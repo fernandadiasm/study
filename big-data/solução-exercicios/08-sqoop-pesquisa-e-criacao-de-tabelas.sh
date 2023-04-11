@@ -1,5 +1,5 @@
 # Mostrar todos os databases
-$ sudo docker exec -it namenode bash
+$ docker exec -it namenode bash
 root@namenode:/# sqoop list-databases --connect jdbc:mysql://database --username root --password secret
 information_schema
 employees
