@@ -1,3 +1,7 @@
+#Acessar o Sqoop (presente no namenode)
+docker ps
+docker exec -it namenode bash
+
 # Verificar a versão
 $ sqoop version
 
@@ -17,10 +21,11 @@ $ sqoop help import
     --username, 
     --verbose, ...
 
+
 # Importar todas as tabelas de um banc# de dados
 $ sqoop import-all-tables ...
 
-# Listar Banc# de Dados
+# Listar Banco de Dados
 $ sqoop list-databases \
 --connect jdbc:mysql://database \
 --username usuari# \
