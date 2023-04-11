@@ -7,7 +7,7 @@
 <div align="left">
 <h3>Sumário:</h3>
 
-* [Lista de exercícios](exercicios/README.md)
+[Lista de exercícios](exercicios/README.md)
 
 <p>
 <a href="#-Formato-de-arquivos-e-compressão">1. Formato de arquivos e Compressão</a>
