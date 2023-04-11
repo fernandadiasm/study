@@ -1,22 +1,4 @@
-<h1 align="center"> Docker </h1>
-
-<p align="center">
-  <img alt="logo do docker" src="../public/docker-logo.png" width="30%">
-</p>
-
-<div align="left">
-<h3>Sumário:</h3>
-
-[Lista de exercícios](https://github.com/fernandadiasm/study/tree/main/docker/Exercicios)
-
-  
-<p>
-
-<a href="#-Formato-de-arquivos-e-compressão">1. Formato de arquivos e Compressão</a>
-
-</p>
-
-</div>
+<h1 align="center"> HIVE </h1>
 
 ## Formato de arquivos e compressão
 
@@ -50,12 +32,11 @@ São arquivos de texto, é o formato padrão tanto para o Hive quanto para o Sqo
 <br>
 <h3>3. RC File</h3>
 <p>
-É o primeiro formato de arquivo colunar do Hadoop, ele é formado por grupos de colunas, por isso recebe o nome de "Record Colunnar File". Apresenta um armazenamento horizontal dos dados 
+É o primeiro formato de arquivo colunar do Hadoop, ele é formado por grupos de colunas, por isso recebe o nome de "Record Colunnar File". Apresenta um armazenamento horizontal dos dados
 
 Vantagem: agilidade no carregamento de dados, principalmente quando estamos lidando com processamento de consultas.
 
 Desvantagem: utiliza mais memória e computação, para realizar o carregamento de dados, e não suporta a evolução do esquema.
 </p>
-
 
 </div>
