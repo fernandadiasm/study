@@ -4,8 +4,23 @@
   <img alt="" src="#" width="90%">
 </p>
 
+<div align="left">
+<h3>Sumário de pastas:</h3>
 
-### Características de definição de um big data
+[Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/1.%20Hadoop)
+
+[Hive](https://github.com/fernandadiasm/study/tree/main/big-data/2.%20Hive)
+
+[Sqoop](https://github.com/fernandadiasm/study/tree/main/big-data/3.%20Sqoop)
+
+[Docker](https://github.com/fernandadiasm/study/tree/main/big-data/docker)
+
+[Soluções dos exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/solu%C3%A7%C3%A3o-exercicios)
+
+</div>
+<br>
+
+## Características de definição de um big data
 
 O Big Data é tratado por categorias V: 3V, 5V, 10V
 
