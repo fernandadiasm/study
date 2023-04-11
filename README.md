@@ -8,4 +8,4 @@
 <br>
 <h2>Sumário:</h2>
 
-* [Big Data](big-data/README.md)
+* [Big Data](big-data)
