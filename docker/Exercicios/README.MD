@@ -1,7 +1,7 @@
 <h1 align="center"> Exercícios </h1>
 
 <p align="center">
-  <img alt="logo do docker" src="../../public/docker-logo.png" width="50%">
+  <img alt="logo do docker" src="../../public/docker-logo.png" width="20%">
 </p>
 
 <div align="left">
