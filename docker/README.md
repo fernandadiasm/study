@@ -7,10 +7,12 @@
 <div align="left">
 <h3>Sumário:</h3>
 
-[Lista de exercícios](exercicios/README.md)
+[Lista de exercícios](https://github.com/fernandadiasm/study/tree/main/docker/Exercicios)
 
 <p>
+
 <a href="#-Formato-de-arquivos-e-compressão">1. Formato de arquivos e Compressão</a>
+
 </p>
 
 </div>
