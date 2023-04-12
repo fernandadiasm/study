@@ -10,3 +10,10 @@
 
 09. [Sqoop - Importação BD Employees](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/09-Sqoop-importação-bd-mployees.sh)
 
+10. [Sqoop - Importação BD Employees- Otimização](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/10-sqoop-importacao-bd-employees-otimizacao.sh)
+
+11. [Sqoop - Importação BD Sakila – Carga Incremental](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/11-sqoop-importação-bd-sakila-carga-incremental.sh)
+
+12. [Sqoop - Importação para o Hive e Exportação - BD Employees](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/12-sqoop-importacao-para-o-hive-e-exportacao-bd-employees.sh)
+
+

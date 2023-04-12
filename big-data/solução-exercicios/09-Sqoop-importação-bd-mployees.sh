@@ -1,4 +1,5 @@
 # Pesquisar os 10 primeiros registros da tabela employees do banco de dados employees
+docker exec -it namenode bash
 
 root@namenode:/# sqoop eval --connect jdbc:mysql://database/employees --username root --password secret --query "select * from employees limit 10"
 -------------------------------------------------------------------------------------
@@ -19,9 +20,12 @@ root@namenode:/# sqoop eval --connect jdbc:mysql://database/employees --username
 # Realizar as importações referentes a tabela employees e para validar cada questão,  é necessário visualizar no HDFS
 #A) Importar a tabela employees, no warehouse  /user/hive/warehouse/db_test_a
 
-root@namenode:/# sqoop import --table employees --connect jdbc:mysql://database/employees --username root --password secret --warehouse-dir /user/hive/warehouse/db_test_a
+root@namenode:/# sqoop import --table employees --connect jdbc:mysql://database/employees --username root --password secret --warehouse-dir /user/hive/warehouse/db_test_a/
+
 root@namenode:/# hdfs dfs -ls /user/hive/warehouse/db_test_a/employees
+
 root@namenode:/# hdfs dfs -cat /user/hive/warehouse/db_test_a/employees/part-m-00000 | head -n 3
+
 10001,1953-09-02,Georgi,Facello,M,1986-06-26
 10002,1964-06-02,Bezalel,Simmel,F,1985-11-21
 10003,1959-12-03,Parto,Bamford,M,1986-08-28
@@ -29,8 +33,11 @@ root@namenode:/# hdfs dfs -cat /user/hive/warehouse/db_test_a/employees/part-m-0
 #B) Importar todos os funcionários do gênero masculino, no warehouse  /user/hive/warehouse/db_test_b
 
 root@namenode:/# sqoop import --table employees --connect jdbc:mysql://database/employees --username root --password secret --where "gender='M'" --warehouse-dir /user/hive/warehouse/db_test_b
+
 root@namenode:/# hdfs dfs -ls /user/hive/warehouse/db_test_b/employees/
+
 root@namenode:/# hdfs dfs -cat /user/hive/warehouse/db_test_b/employees/part-m-00000 | head -n 3
+
 10001,1953-09-02,Georgi,Facello,M,1986-06-26
 10003,1959-12-03,Parto,Bamford,M,1986-08-28
 10004,1954-05-01,Chirstian,Koblick,M,1986-12-01
@@ -38,7 +45,9 @@ root@namenode:/# hdfs dfs -cat /user/hive/warehouse/db_test_b/employees/part-m-0
 #C) importar o primeiro e o último nome dos funcionários com os campos separados por tabulação, no warehouse  /user/hive/warehouse/db_test_c
 
 root@namenode:/# sqoop import --table employees --connect jdbc:mysql://database/employees --username root --password secret --columns "first_name,last_name" --fields-terminated-by '\t' --warehouse-dir /user/hive/warehouse/db_test_c
+
 root@namenode:/# hdfs dfs -cat /user/hive/warehouse/db_test_c/employees/part-m-00000 | head -n 3
+
 Georgi	Facello
 Bezalel	Simmel
 Parto	Bamford
@@ -46,4 +55,6 @@ Parto	Bamford
 #D) Importar o primeiro e o último nome dos funcionários com as linhas separadas por “ : ” e salvar no mesmo diretório da questão #C
 
 root@namenode:/# sqoop import --table employees --connect jdbc:mysql://database/employees --username root --password secret --columns "first_name,last_name" --lines-terminated-by ':' --warehouse-dir /user/hive/warehouse/db_test_2c
+
+#Dica para visualizar no HDFS:
 :root@namenode:/# hdfs dfs -cat /user/hive/warehouse/t_2c/employees/part-m-00000 | head -n 3
