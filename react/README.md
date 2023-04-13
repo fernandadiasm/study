@@ -17,7 +17,7 @@ O índice está organizado de acordo com a ordem em que fui aprendendo as matér
 
 *  [Padrões de renderização](https://github.com/fernandadiasm/study/tree/main/react/01-padroes-de-renderizacao.md)
 
-* [Blunders e compilers](https://github.com/fernandadiasm/study/tree/main/react/02-blunders-e-compilers.md)
+* [Bundlers e compilers](https://github.com/fernandadiasm/study/tree/main/react/02-bundlers-e-compilers.md)
 
 * [Criando um projeto react](https://github.com/fernandadiasm/study/tree/main/react/03-criando-um-projeto-react.md)
 
