@@ -19,6 +19,11 @@ O índice está organizado de acordo com a ordem em que fui aprendendo as matér
 
 * [Blunders e compilers](https://github.com/fernandadiasm/study/tree/main/react/02-blunders-e-compilers.md)
 
+* [Criando um projeto react](https://github.com/fernandadiasm/study/tree/main/react/03-criando-um-projeto-react.md)
+
+* [Componentes](https://github.com/fernandadiasm/study/tree/main/react/04-componentes.md)
+
+* [Propriedades](https://github.com/fernandadiasm/study/tree/main/react/05-propriedades.md)
 
 
 
