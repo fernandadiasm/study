@@ -1,13 +1,29 @@
 <h1 align="center"> Criando um projeto react </h1>
 
 A criação do projeto será pelo Vite, então dentro do terminal é preciso escrever o seguinte comando:
+
 ```
 npm create vite@latest
 ```
+
+Em seguida, é preciso entrar na pasta do projeto com o comando:
+
+```
+cd nomeDaPasta
+```
+
 Em seguida, é preciso instalar as dependências para que o projeto funcione:
+
 ```
 npm install
 ```
+
+Para abrir o projeto no navegador:
+
+```
+ npm run dev
+```
+
 Apago todas os arquivos no src, exceto o App.jsx e o main.jsx. É importante não esquecer de tirar as importações css/svg desses dois arquivos, para que o projeto funcione corretamente. Apagar tudo que estiver dentro do return no App.jsx.
 
 <br>
@@ -19,4 +35,3 @@ No main.jsx, importamos o React e o ReactDom. Sendo o React o coração da aplic
 A partir daí temos acesso a métodos do ReactDOM, como o ReactDOM.createroot que recebe o elemento raiz da página HTML. A partir daí o React irá criar toda a aplicação em html, css e Javascript dentro dessa div.
 
 Além do createroot, temos o método render que é responsável por renderizar (mostrar em tela) o componente que estiver escrito ali, no caso o "App". Assim, toda a aplicação fica a cargo do Javascript e conseguimos ter mais poder para manipular todo o código.
-
