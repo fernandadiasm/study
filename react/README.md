@@ -25,7 +25,15 @@ O índice está organizado de acordo com a ordem em que fui aprendendo as matér
 
 * [Propriedades](https://github.com/fernandadiasm/study/tree/main/react/05-propriedades.md)
 
-* [Styled Components](https://github.com/fernandadiasm/study/tree/main/react/06-styled-componentes.md)
+* [JSX](https://github.com/fernandadiasm/study/tree/main/react/06-JSX.md)
+
+* [Styled Components](https://github.com/fernandadiasm/study/tree/main/react/07-styled-componentes.md)
+
+* [forEach vs .map](https://github.com/fernandadiasm/study/tree/main/react/09-forEach-vs-map.md)
+
+* [useState](https://github.com/fernandadiasm/study/tree/main/react/10-useState.md)
+
+* [Stateless vs Statefull](https://github.com/fernandadiasm/study/tree/main/react/11-stateless-vs-statefull.md)
 
 
 
