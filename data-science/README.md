@@ -8,9 +8,10 @@
 [🐳 Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
 [Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
 
+[Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
+
 [Hive](https://github.com/fernandadiasm/study/tree/main/data-science/2.%20Hive)
 
-[🌿 MongoDB](https://github.com/fernandadiasm/study/tree/main/data-science/mongodb)
 [Sqoop](https://github.com/fernandadiasm/study/tree/main/data-science/3.%20Sqoop)
 
 [HBase](https://github.com/fernandadiasm/study/tree/main/data-science/4.%20HBase)
