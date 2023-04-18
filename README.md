@@ -8,6 +8,6 @@
 <br>
 <h2>Sumário:</h2>
 
-* [Big Data](big-data)
-* [React](react)
-* [React Native](react-native)
+* [Front-end](front-end)
+* [Back-end](back-end)
+* [Data Science](data-science)
