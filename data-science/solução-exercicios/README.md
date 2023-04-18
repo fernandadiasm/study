@@ -16,4 +16,14 @@
 
 12. [Sqoop - Importação para o Hive e Exportação - BD Employees](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/12-sqoop-importacao-para-o-hive-e-exportacao-bd-employees.sh)
 
+13. [HBase](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/13-hbase.sh)
+
+14. [Spark - Exercicios de dataframe](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/14-spark-exercicios-de-dataframe.sh)
+
+15. [Spark - Esquema e join](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/15-spark-esquema-e-join.sh)
+
+16. [Spark - Exercicios da API catalog](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/16-spark-exercicios-da-api-catalog.sh)
+
+17. [Spark - Exercicio de SQL queries vs operações de dataframe](https://github.com/fernandadiasm/study/blob/main/big-data/solu%C3%A7%C3%A3o-exercicios/17-spark-exercicio-de-sql-queries-vs-operacoes-de-dataframe.sh)
+
 
