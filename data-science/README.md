@@ -7,15 +7,17 @@
 <div align="left">
 <h3>Índice de pastas:</h3>
 
-[Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/1.%20Hadoop)
+[Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
 
-[Hive](https://github.com/fernandadiasm/study/tree/main/big-data/2.%20Hive)
+[Hive](https://github.com/fernandadiasm/study/tree/main/data-science/2.%20Hive)
 
-[Sqoop](https://github.com/fernandadiasm/study/tree/main/big-data/3.%20Sqoop)
+[Sqoop](https://github.com/fernandadiasm/study/tree/main/data-science/3.%20Sqoop)
 
-[Docker](https://github.com/fernandadiasm/study/tree/main/big-data/docker)
+[HBase](https://github.com/fernandadiasm/study/tree/main/data-science/4.%20HBase)
 
-[Soluções dos exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/solu%C3%A7%C3%A3o-exercicios)
+[Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
+
+[Soluções de exercícios](https://github.com/fernandadiasm/study/tree/main/data-science/solu%C3%A7%C3%A3o-exercicios)
 
 </div>
 <br>
