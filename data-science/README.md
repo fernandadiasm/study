@@ -5,7 +5,7 @@
 </p>
 
 <div align="left">
-<h3>Sumário de pastas:</h3>
+<h3>Índice de pastas:</h3>
 
 [Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/1.%20Hadoop)
 
