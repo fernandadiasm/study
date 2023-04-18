@@ -6,8 +6,18 @@
 <h3>Índice:</h3>
 
 [🐳 Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
+[Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
+
+[Hive](https://github.com/fernandadiasm/study/tree/main/data-science/2.%20Hive)
 
 [🌿 MongoDB](https://github.com/fernandadiasm/study/tree/main/data-science/mongodb)
+[Sqoop](https://github.com/fernandadiasm/study/tree/main/data-science/3.%20Sqoop)
+
+[HBase](https://github.com/fernandadiasm/study/tree/main/data-science/4.%20HBase)
+
+[Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
+
+[Soluções de exercícios](https://github.com/fernandadiasm/study/tree/main/data-science/solu%C3%A7%C3%A3o-exercicios)
 
 </div>
 <br>
