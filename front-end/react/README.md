@@ -1,7 +1,7 @@
 <h1 align="center"> React</h1>
 
 <p align="center">
-  <img align="right" alt="logo do docker" src="../public/logo-react.png" width="30%">
+  <img align="right" alt="logo do react" src="../../public/logo-react.png" width="30%">
 </p>
 
 ## O que é react?
