@@ -6,8 +6,10 @@
 
 <p> Repositório criado com o objetivo de reunir exercícios e anotações sobre tecnologias e linguagens que estou aprendendo por meio da faculdade e cursos externos, me ajudando a melhorar e evoluir como uma desenvolvedora web (:</p>
 <br>
-<h2>Índice:</h2>
+<h3>Índice:</h3>
 
-* [Front-end](front-end)
-* [Back-end](back-end)
-* [Data Science](data-science)
+
+* [React.js](front-end/react)
+* [React Native](front-end/react-native)
+* [Docker](data-science/docker)
+* [MongoDB](data-science/mongodb)
