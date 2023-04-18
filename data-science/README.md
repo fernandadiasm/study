@@ -5,20 +5,10 @@
 <div align="left">
 <h3>Índice:</h3>
 
-[🐳 Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
-[Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
-
-[Hadoop](https://github.com/fernandadiasm/study/tree/main/data-science/1.%20Hadoop)
-
-[Hive](https://github.com/fernandadiasm/study/tree/main/data-science/2.%20Hive)
-
-[Sqoop](https://github.com/fernandadiasm/study/tree/main/data-science/3.%20Sqoop)
-
-[HBase](https://github.com/fernandadiasm/study/tree/main/data-science/4.%20HBase)
-
 [Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
+[MongoDB](https://github.com/fernandadiasm/study/tree/main/data-science/mongodb)
 
-[Soluções de exercícios](https://github.com/fernandadiasm/study/tree/main/data-science/solu%C3%A7%C3%A3o-exercicios)
+
 
 </div>
 <br>
