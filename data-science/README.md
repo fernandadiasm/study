@@ -1,21 +1,13 @@
-<h1 align="center"> Big Data </h1>
-
 <p align="center">
-  <img alt="" src="#" width="90%">
+  <img alt="imagem escrita ciência de dados" src="https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE" width="90%">
 </p>
 
 <div align="left">
-<h3>Índice de pastas:</h3>
+<h3>Índice:</h3>
 
-[Hadoop](https://github.com/fernandadiasm/study/tree/main/big-data/1.%20Hadoop)
+[🐳 Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
 
-[Hive](https://github.com/fernandadiasm/study/tree/main/big-data/2.%20Hive)
-
-[Sqoop](https://github.com/fernandadiasm/study/tree/main/big-data/3.%20Sqoop)
-
-[Docker](https://github.com/fernandadiasm/study/tree/main/big-data/docker)
-
-[Soluções dos exercícios](https://github.com/fernandadiasm/study/tree/main/big-data/solu%C3%A7%C3%A3o-exercicios)
+[🌿 MongoDB](https://github.com/fernandadiasm/study/tree/main/data-science/mongodb)
 
 </div>
 <br>
@@ -41,6 +33,7 @@ Curiosidades: Cerca de 90% de todos os dados gerados no planeta, foram gerados n
 <br>
 
 ### Qual arquitetura devo usar: Crescimento vertical ou horizonta?
+
 Pensando em armazenar, processar e analisar os dados:
 
 Uma empresa que possui um **crescimento vertical (mais tecnologia)** investe em tecnologia, ou seja, tem um grande foco em aumentar cada vez mais o hardware de suas máquinas, porém ao atingir o limite máximo de tecnologia existente (no hardware), a empresa precisará aguardar surgirem novas tecnologias para que consiga aumentar seu hardware e receber mais dados. Por isso, em big data, usa-se o **crescimento horizontal (mais computadores)**, onde existe um investimento no aumento de novas máquinas, sendo sempre capaz de aumentar sua rede de computadores e consequentemente receber um maior volume de dados, por ser algo ilimitado, bastando apenas comprar novos computadores quando precisar.
