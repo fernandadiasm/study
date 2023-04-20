@@ -1,16 +1,8 @@
 <p align="center">
-  <img alt="imagem escrita ciência de dados" src="https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE" width="90%">
+  <img alt="imagem escrita ciência de dados" src="https://data-science-blog.com/wp-content/uploads/2019/10/big-data-header-graphic-1030x391.png" width="80%">
 </p>
 
-<div align="left">
-<h3>Índice:</h3>
 
-[Docker](https://github.com/fernandadiasm/study/tree/main/data-science/docker)
-[MongoDB](https://github.com/fernandadiasm/study/tree/main/data-science/mongodb)
-
-
-
-</div>
 <br>
 
 ## Características de definição de um big data
