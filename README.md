@@ -28,3 +28,4 @@
 <h3>Tópicos específicos:</h3>
 
 * [Big Data](components/others/data-science/README.md)
+* [Biblioteca X Frameworks](components/others/framework-biblioteca.md)
