@@ -2,7 +2,6 @@
 
 <p align="center">
   <img align="right" alt="logo do docker" src="../../public/logo-react.png" width="30%">
-  <img align="right" alt="logo do react" src="../../public/logo-react.png" width="30%">
 </p>
 
 ## O que é react?
@@ -16,25 +15,25 @@ O índice está organizado de acordo com a ordem em que fui aprendendo as matér
 <br>
 
 
-*  [Padrões de renderização](https://github.com/fernandadiasm/study/blob/main/front-end/react/01-padroes-de-renderizacao.md)
+*  [Padrões de renderização](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/01-padroes-de-renderizacao.md)
 
-* [Bundlers e compilers](https://github.com/fernandadiasm/study/blob/main/front-end/react/02-bundlers-e-compilers.md)
+* [Bundlers e compilers](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/02-bundlers-e-compilers.md)
 
-* [Criando um projeto react](https://github.com/fernandadiasm/study/blob/main/front-end/react/03-criando-um-projeto-react.md)
+* [Criando um projeto react](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/03-criando-um-projeto-react.md)
 
-* [Componentes](https://github.com/fernandadiasm/study/blob/main/front-end/react/04-componentes.md)
+* [Componentes](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/04-componentes.md)
 
-* [Propriedades](https://github.com/fernandadiasm/study/blob/main/front-end/react/05-propriedades.md)
+* [Propriedades](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/05-propriedades.md)
 
-* [JSX](https://github.com/fernandadiasm/study/blob/main/front-end/react/06-JSX.md)
+* [JSX](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/06-JSX.md)
 
-* [Styled Components](https://github.com/fernandadiasm/study/blob/main/front-end/react/07-styled-componentes.md)
+* [Styled Components](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/07-styled-componentes.md)
 
-* [forEach vs .map](https://github.com/fernandadiasm/study/blob/main/front-end/react/09-forEach-vs-map.md)
+* [forEach vs .map](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/09-forEach-vs-map.md)
 
-* [useState](https://github.com/fernandadiasm/study/blob/main/front-end/react/10-useState.md)
+* [useState](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/10-useState.md)
 
-* [Stateless vs Statefull](https://github.com/fernandadiasm/study/blob/main/front-end/react/11-stateless-vs-statefull.md)
+* [Stateless vs Statefull](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/11-stateless-vs-statefull.md)
 
 
 
