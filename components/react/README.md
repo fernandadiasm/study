@@ -15,25 +15,25 @@ O índice está organizado de acordo com a ordem em que fui aprendendo as matér
 <br>
 
 
-*  [Padrões de renderização](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/01-padroes-de-renderizacao.md)
+*  [Padrões de renderização](components/01-padroes-de-renderizacao.md)
 
-* [Bundlers e compilers](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/02-bundlers-e-compilers.md)
+* [Bundlers e compilers](components/02-bundlers-e-compilers.md)
 
-* [Criando um projeto react](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/03-criando-um-projeto-react.md)
+* [Criando um projeto react](components/03-criando-um-projeto-react.md)
 
-* [Componentes](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/04-componentes.md)
+* [Componentes](components/04-componentes.md)
 
-* [Propriedades](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/05-propriedades.md)
+* [Propriedades](components/05-propriedades.md)
 
-* [JSX](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/06-JSX.md)
+* [JSX](components/06-JSX.md)
 
-* [Styled Components](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/07-styled-componentes.md)
+* [Styled Components](components/07-styled-componentes.md)
 
-* [forEach vs .map](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/09-forEach-vs-map.md)
+* [forEach vs .map](components/09-forEach-vs-map.md)
 
-* [useState](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/10-useState.md)
+* [useState](components/10-useState.md)
 
-* [Stateless vs Statefull](https://github.com/fernandadiasm/study/blob/main/front-end/react/components/11-stateless-vs-statefull.md)
+* [Stateless vs Statefull](components/11-stateless-vs-statefull.md)
 
 
 
