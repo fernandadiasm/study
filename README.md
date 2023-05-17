@@ -9,12 +9,12 @@
 
 <h3>Bibliotecas:</h3>
 
-*
+* [React.js](components/react)
+* [React Native](components/react-native)
 
 <h3>Frameworks:</h3>
 
-* [React.js](components/react)
-* [React Native](components/react-native)
+*
 
 <h3>Linguagens de programação:</h3>
 
